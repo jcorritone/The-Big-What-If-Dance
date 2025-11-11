@@ -1,0 +1,68 @@
+round,region,game_id,team1,team2,seed1,seed2,feed_into_id,feed_into_slot
+0,East,P1,NC State,UCLA,11,11,E6,2
+0,East,P2,Texas,Richmond,12,12,E5,2
+0,East,P3,Boston University,Robert Morris,16,16,E1,2
+0,West,P4,Prairie View A&M,North Carolina Central,16,16,W1,2
+1,East,E1,Dayton,TBD_P3,1,16,E9,1
+1,East,E2,Florida State,Northern Kentucky,2,15,E10,1
+1,East,E3,Villanova,Hofstra,3,14,E11,1
+1,East,E4,Maryland,Vermont,4,13,E12,1
+1,East,E5,Butler,TBD_P2,5,12,E12,2
+1,East,E6,Penn State,TBD_P1,6,11,E11,2
+1,East,E7,West Virginia,Utah State,7,10,E10,2
+1,East,E8,Colorado,Florida,8,9,E9,2
+1,Midwest,M1,Kansas,Siena,1,16,M9,1
+1,Midwest,M2,Kentucky,North Dakota State,2,15,M10,1
+1,Midwest,M3,Duke,Belmont,3,14,M11,1
+1,Midwest,M4,Wisconsin,North Texas,4,13,M12,1
+1,Midwest,M5,Auburn,Liberty,4,13,M12,2
+1,Midwest,M6,Iowa,East Tennessee State,6,11,M11,2
+1,Midwest,M7,Providence,Arizona State,7,10,M10,2
+1,Midwest,M8,Houston,Marquette,8,9,M9,2
+1,South,S1,Baylor,Winthrop,1,16,S9,1
+1,South,S2,Creighton,Little Rock,2,15,S10,1
+1,South,S3,Michigan State,Bradley,3,14,S11,1
+1,South,S4,Louisville,Akron,4,13,S12,1
+1,South,S5,Ohio State,Stephen F. Austin,5,12,S12,2
+1,South,S6,Virginia,Cincinnati,6,11,S11,2
+1,South,S7,Illinois,USC,7,10,S10,2
+1,South,S8,Saint Marys,Rutgers,8,9,S9,2
+1,West,W1,Gonzaga,TBD_P4,1,16,W9,1
+1,West,W2,San Diego State,UC Irvine,2,15,W10,1
+1,West,W3,Seton Hall,Eastern Washington,3,14,W11,1
+1,West,W4,Oregon,New Mexico State,4,13,W12,1
+1,West,W5,Michigan,Yale,5,12,W12,2
+1,West,W6,BYU,Indiana,6,11,W11,2
+1,West,W7,Arizona,Texas Tech,7,10,W10,2
+1,West,W8,LSU,Oklahoma,8,9,W9,2
+2,East,E9,TBD_E1,TBD_E8,,,E13,1
+2,East,E10,TBD_E2,TBD_E7,,,E14,1
+2,East,E11,TBD_E3,TBD_E6,,,E14,2
+2,East,E12,TBD_E4,TBD_E5,,,E13,2
+2,Midwest,M9,TBD_M1,TBD_M8,,,M13,1
+2,Midwest,M10,TBD_M2,TBD_M7,,,M14,1
+2,Midwest,M11,TBD_M3,TBD_M6,,,M14,2
+2,Midwest,M12,TBD_M4,TBD_M5,,,M13,2
+2,South,S9,TBD_S1,TBD_S8,,,S13,1
+2,South,S10,TBD_S2,TBD_S7,,,S14,1
+2,South,S11,TBD_S3,TBD_S6,,,S14,2
+2,South,S12,TBD_S4,TBD_S5,,,S13,2
+2,West,W9,TBD_W1,TBD_W8,,,W13,1
+2,West,W10,TBD_W2,TBD_W7,,,W14,1
+2,West,W11,TBD_W3,TBD_W6,,,W14,2
+2,West,W12,TBD_W4,TBD_W5,,,W13,2
+3,East,E13,TBD_E9,TBD_E12,,,E15,1
+3,East,E14,TBD_E10,TBD_E11,,,E15,2
+3,Midwest,M13,TBD_M9,TBD_M12,,,M15,1
+3,Midwest,M14,TBD_M10,TBD_M11,,,M15,2
+3,South,S13,TBD_S9,TBD_S12,,,S15,1
+3,South,S14,TBD_S10,TBD_S11,,,S15,2
+3,West,W13,TBD_W9,TBD_W12,,,W15,1
+3,West,W14,TBD_W10,TBD_W11,,,W15,2
+4,East,E15,TBD_E13,TBD_E14,,,FF1,1
+4,Midwest,M15,TBD_M13,TBD_M14,,,FF1,2
+4,South,S15,TBD_S13,TBD_S14,,,FF2,1
+4,West,W15,TBD_W13,TBD_W14,,,FF2,2
+5,Final 4,FF1,TBD_E15,TBD_M15,,,C1,1
+5,Final 4,FF2,TBD_S15,TBD_W15,,,C1,2
+6,Championship,C1,TBD_FF1,TBD_FF2,,,,

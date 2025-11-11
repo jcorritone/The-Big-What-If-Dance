@@ -25,7 +25,7 @@ The result: A data-driven view of how the 2020 March Madness tournament may have
 - Joe Lunardi's final projection of the 68-team bracket (CSV structured to follow the simulation process).
 
 ### Modeling
-- Bradley-Terry model that estimates latent strength (λ) of each Division I college basketball team in the 2019-20 season, with win probability: $$P(i\ \text{beats}\ j)=\frac{e^{\lambda_i}}{e^{\lambda_i}+e^{\lambda_j}}$$
+- Bradley-Terry model that estimates latent strength (λ) of each Division I college basketball team in the 2019-20 season, with win probability: **$$P(i\ \text{beats}\ j)=\frac{e^{\lambda_i}}{e^{\lambda_i}+e^{\lambda_j}}$$**
 - An extension using an `at_home` covariate to improve the model.
 - Validation of latent strengths with KenPom's Adjusted Efficiency Margin (r = 0.97).
  

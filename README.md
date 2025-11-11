@@ -3,7 +3,7 @@
 **Authors:** Joseph Corritone, Travis Delgado, Owen Hom, Tyler Hooper  
 **Last Updated:** November 2025
 
-*Originally developed as part of a group project for STAT 479 (Sports Analytics) at UW-Madison*
+*Originally developed as part of a group project for STAT 479 (Sports Analytics) at UW-Madison.*
 
 ## 🏀  Overview
 **The Big (What-If) Dance** relives the 2020 college basketball season before it was ultimately shut down due to the COVID-19 pandemic. The project's purpose is to answer the question: *How can statistical modeling and simulation explain the randomness of March Madness and identify the teams that were statistically most likely to advance in the unplayed 2020 tournament?*

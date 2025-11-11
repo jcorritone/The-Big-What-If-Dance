@@ -1,6 +1,6 @@
 # The Big (What-If) Dance
 
-**Author:** Joseph Corritone, Travis Delgado, Owen Hom, Tyler Hooper  
+**Authors:** Joseph Corritone, Travis Delgado, Owen Hom, Tyler Hooper  
 **Last Updated:** November 2025
 
 *Originally developed as part of a group project for STAT 479 (Sports Analytics) at UW-Madison*

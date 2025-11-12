@@ -118,3 +118,6 @@ message("Wrote standardized schedule: ", schedule_output)
 if (kenpom_exists) {
   write_csv(kenpom_sc, kenpom_output)
   message("Wrote standardized KenPom: ", kenpom_output)}
+
+if (kenpom_exists) {
+  write_csv(schedule_universe, here("results", paste0("schedule_universe_", szn, ".csv")))
